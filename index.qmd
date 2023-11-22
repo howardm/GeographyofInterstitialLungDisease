@@ -1,0 +1,686 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: false
+editor: visual
+---
+
+<br> <br>
+
+<h1>Geography of Chronic Interstitial Lung Disease - A 2023 update</h1>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+<br> <br> <br>
+
+<h2>URL: howardm.github.io/GeographyofInterstitialLungDisease</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
+
+## Content
+
+-   Imaging features of common chronic, fibrosing interstitial disorders
+    -   Sarcoidosis and Fibrosing Pneumoconioses
+    -   Usual Interstitial Pneumonia
+    -   Fibrotic Non-Specific Interstitial Pneumonia
+    -   Fibrotic Hypersensitivity Pneumonitis
+    -   Smoking-Related Interstitial Fibrosis
+    
+    
+-   Unusual causes of chronic interstitial fibrosis
+    -   Familial Pulmonary Fibrosis
+    -   Short Telomere Syndromes (Telemeropathy)
+    -   Surfactant protein (SP)-C deficiency
+    -   Pleuropulmonary Fibroelastosis
+    -   Interstitial fibrosis with non-emphysematous lung cysts
+    
+    
+-   New concepts in Interstitial Fibrosis
+    -   Interstitial Lung Abnormalities
+    -   Progressive Pulmonary Fibrosis
+-   LIP -- R.I.P.
+
+## Sarcoidosis
+
+::: columns
+::: {.column width="30%"}
+Chronic fibrosing sarcoidosis -- Scadding \[criteria\] Stage IV
+
+-   Stage 0: no lung involvement
+-   Stage I: hilar enlargement alone
+-   Stage II: hilar enlargement plus interstitial lung disease
+-   Stage III: interstitial lung disease alone
+-   Stage IV: lung fibrosis
+:::
+
+::: {.column width="70%"}
+![](images/fibrosingsarcoidosis.jpg){fig-align="center" width="95%"} <br>
+
+-   upper-lung predominant: typically symmetric, suprahilar opacities
+-   large opacities associated with surrounding architectural parenchymal distortion-cicatrization atelectasis
+-   often associated with small nodular disease in adjacent lung and nodal calcifications
+:::
+:::
+
+## Complicated Inorganic Dust (Coal-Silica) Pneumoconiosis
+
+::: columns
+::: {.column width="35%"}
+-   *very* similar to sarcoidosis
+-   occupational history is obviously very important
+
+![](images/Breading.jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="65%"}
+![](images/complicatedinorganicdust.jpg){fig-align="center" width="100%"}
+
+<br>
+
+::: {.callout-note icon="false"}
+## [Some useful findings that may help to distinguish this from sarcoidosis]{style="font-size: 25px;"}
+
+-   cicatricial emphysema (caveat: circumscribed, round cystic spaces may occur in sarcoidosis)
+-   nodal calcifications typically limited to regional hilar-mediastinal nodes
+:::
+:::
+:::
+
+## Accelerated Fibrosing Silicosis
+
+<br>
+
+::: columns
+::: {.column width="20%"}
+-   often described in workers manufacturing engineered stone products
+-   relatively rapid development of extensive fibrosis
+:::
+
+::: {.column width="80%"}
+![](images/acceleratedsilicosis.jpg){fig-align="center" width="100%"}
+
+![](images/silicosisengineeredstone.jpg){fig-align="center" width="90%"}
+:::
+:::
+
+## Usual Interstitial Pneumonia
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+-   the most common form of progressive interstitial fibrosis
+-   the manifestation of "end-stage fibrosis" in many conditions:
+    -   idiopathic (IPF)
+    -   connective tissue disease; especially rheumatoid arthritis
+    -   chronic inhaled dust exposure -- asbestosis
+    -   drug toxicity
+    -   familial pulmonary fibrosis and genetic syndromes
+-   it may occur with other forms of fibrosis, e.g., in fibrotic hypersensitivity pneumonitis
+:::
+
+::: {.column width="70%"}
+![](images/fleischneruip.jpg){fig-align="center" width="100%"}
+:::
+:::
+
+## Honeycombing and traction bronchiolectasis in UIP CT patterns
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+![](images/honeycombing.jpg){fig-align="center" width="100%"}
+
+
+<p style="text-align: center;">honeycombing</p>
+
+
+:::
+
+::: {.column width="50%"}
+![](images/tractionbronchiolectasis.jpg){fig-align="center" width="85%"}
+
+
+<p style="text-align: center;">traction bronchiolectasis</p>
+
+
+
+:::
+:::
+
+## The evolution of honeycombing in UIP
+
+<br>
+A plausible explanation
+
+![](images/pathogenesishoneycombing.jpg){fig-align="center" width="85%"}
+
+
+
+## Don't agonize over honeycombing versus traction bronchiolectasis!
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+* UIP is present on biopsy in ~ 85% of patients with the Probable UIP CT pattern
+* in general, patients with the Typical and Probable CT UIP patterns are *not* subjected to surgical lung biopsy
+
+:::
+
+::: {.column width="70%"}
+
+
+![](images/typicalprobableuip.jpg){fig-align="center" width="85%"}
+
+
+:::
+
+:::
+
+## An updated algorithm for the diagnosis of IPF
+
+![](images/updatedipfalgorithm.jpg){fig-align="center" width="90%"}
+
+## If you insist on agonizing about honeycombing!
+
+Some helpful distinctions in honeycombing of UIP
+
+<br>
+
+![](images/honeycombingalgorithm.jpg){fig-align="center" width="85%"}
+
+
+## What's the pathologic diagnosis ?
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+
+![](images/nsip2015.jpg){fig-align="center" width="85%"}
+
+:::
+
+::: {.column width="50%"}
+
+
+![](images/nsip2017.jpg){fig-align="center" width="85%"}
+
+
+:::
+
+:::
+
+
+## The evolution of Fibrotic Non-Specific Interstitial Pneumonitis
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+Findings
+
+* extensive traction bronchiectasis within diffuse hyperattenuation abnormality (GGO)
+* absent or minor subpleural reticulation; no traction bronchiolectasis; no honeycombing
+
+Most common clinical association: connective tissue disease -- particularly scleroderma
+
+:::
+
+::: {.column width="70%"}
+
+
+![](images/fibroticnsip.jpg){fig-align="center" width="100%"}
+
+
+:::
+
+:::
+
+##  Fibrosing Lung Disease in Scleroderma
+
+When the following are present, suggest the clinical diagnosis with confidence:
+
+<br>
+
+::: columns
+::: {.column width="32%"}
+
+
+![](images/anteriorupperlobesign.jpg){fig-align="center" width="100%"}
+<p style="text-align: center;">*anterior upper lobe* sign</p>
+
+:::
+
+::: {.column width="32%"}
+
+
+![](images/exuberanthoneycombing.jpg){fig-align="center" width="85%"}
+
+<p style="text-align: center;">*exuberant honeycombing* sign</p>
+:::
+
+::: {.column width="32%"}
+
+
+![](images/straightedgesign.jpg){fig-align="center" width="83%"}
+
+<p style="text-align: center;">*straight edge* sign</p>
+:::
+
+:::
+
+## Fibrotic Hypersensitivity Pneumonitis
+
+![](images/atsfibrotichp.jpg){fig-align="center" width="65%"}
+
+
+## Typical fibrotic H.P. pattern
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+
+![](images/typicalhpcase.jpg){fig-align="center" width="51%"}
+
+:::
+
+::: {.column width="50%"}
+
+
+![](images/typicalhpcasect.jpg){fig-align="center" width="45%"}
+
+
+:::
+
+:::
+
+
+##  Compatible (or is it Indeterminate ?) fibrotic H.P. pattern
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+
+![](images/compatiblehpcase.jpg){fig-align="center" width="51%"}
+
+:::
+
+::: {.column width="50%"}
+
+
+![](images/compatiblehpcasect.jpg){fig-align="center" width="52%"}
+
+
+:::
+
+:::
+
+##  CT-pathologic correlation
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+
+![](images/pathologyreport.jpg){fig-align="center" width="100%"}
+
+:::
+
+::: {.column width="70%"}
+
+<br>
+<br>
+
+![](images/pathcorrelationfibrotichp.jpg){fig-align="center" width="100%"}
+
+
+
+
+:::
+
+:::
+
+This is the kind of case that arguably benefits from an ILD - Multidisciplinary Discussion (MDD)
+
+
+##  Applying the guidelines for UIP and Fibrotic Hypersensitivity Pneumonitis
+
+It's often tougher than you might think!
+
+![](images/uipversusfibrotichpalgo.jpg){fig-align="center" width="100%"}
+
+
+##  Smoking-related Interstitial Fibrosis
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+There are three pathologic entities worth knowing about:
+
+* Smoking-Related Interstitial Fibrosis (SRIF)
+* Smoking- Related Fibrosis with Airspace Enlargement (AEF)
+* Combined Pulmonary Fibrosis-Emphysema Syndrome (CPEF)
+
+
+:::
+
+::: {.column width="70%"}
+
+
+![](images/smokingrelatedfibrosis.jpg){fig-align="center" width="55%"}
+
+
+:::
+
+:::
+
+
+##  SRIF and Diffuse Pulmonary Hyperattenuation (GGO)
+
+<br>
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+
+* inter-alveolar septal fibrosis with distinctive dark-staining "ropey" collagen (arrows) on H&E staining
+* produces ground glass-attenuating opacity on CT
+* GGO on CT may represent both
+   + smoker's macrophages and SRIF
+
+
+:::
+
+::: {.column width="70%"}
+
+From the article:
+
+![](images/srifpathology.jpg){fig-align="center" width="100%"}
+
+
+:::
+
+:::
+
+## An example of diffuse, background hyperattenuation abnormality and emphysema
+
+![](images/clinicalcaseemphysema.jpg){fig-align="center" width="100%"}
+
+
+Tip: Compare the lung attenuation with air in central bronchi.
+
+## Combined fibrosis-emphysema and airspace enlargement
+
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+* CPFE: upper zone emphysema and bibasilar fibrosis, usually an UIP-pattern
+* AEF: the cysts are often not sub-pleural and irregular in size and shape.
+
+
+:::
+
+::: {.column width="70%"}
+
+![](images/typicalcpfecase.jpg){fig-align="center" width="45%"}
+
+
+:::
+
+:::
+
+## Unusual causes of chronic interstitial fibrosis
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+* Familial Pulmonary Fibrosis
+    + definition: two or more members of the family
+    + any CT pattern of fibrosis may occur, including *non-classifiable*
+* Short Telomere Syndromes (Telemeropathy)
+    + suspect this when premature graying, liver dysfunction, and bone marrow "failure" occur.
+    + examples: Dyskeratosis Congenita and sporadic TERT (telomerase reverse transcriptase) - related mutations.
+* Surfactant protein (SP)-C deficiency
+    + usually presents in infancy
+    
+ 
+:::
+
+::: {.column width="70%"}
+
+ Surfactant protein (SP)-C deficiency
+ 
+![](images/proteincdeficiency.jpg){fig-align="center" width="80%"}
+
+
+:::
+
+:::
+  
+## Pleuroparenchymal Fibroelastosis
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+The typical CT pattern:
+
+* apical lung disease
+* progressive, confluent reticular opacities with...
+* progressive upper zone volume loss
+
+Causes to know:
+
+* sporadic-idiopathic
+* chronic allograft dysfunction (CLAD) after lung transplantation
+* may occur after stem cell transplantation
+
+:::
+
+::: {.column width="70%"}
+
+
+  ![](images/ppfe.jpg){fig-align="center" width="100%"}
+
+
+:::
+
+:::
+
+## Another case of Pleuroparenchymal Fibroelastosis
+
+![](images/ppfecasetwo.jpg){fig-align="center" width="80%"}
+
+Don't confuse this with insignificant Apical Caps. 
+  
+  
+##  Interstitial fibrosis with non-emphysematous lung cysts
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+This is very unusual. You'll get bonus points (from someone) if you suggest the diagnosis!
+
+* SLE
+* COPA syndrome (autosomal dominant)
+    + named for the gene mutated in the disease, which encodes the alpha subunit of the coatomer complex-I 
+    + mention it if the *young* patient has unexplained arthritis and kidney disease
+    
+You'll get extra bonus points if you remember the acronym!!  
+
+
+
+:::
+
+::: {.column width="70%"}
+
+<br>
+
+COPA syndrome
+
+  ![](images/copa.jpg){fig-align="center" width="100%"}
+
+
+:::
+
+:::
+
+##  Interstitial Lung Abnormalities (ILAs)
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+
+ILA is defined as *incidental* CT findings of nondependent
+abnormalities affecting more than 5% of any lung zone
+(ie, upper, middle, and lower lung zones are demarcated
+by the levels of the inferior aortic arch and right inferior pulmonary vein) at complete or partial chest CT (eg,
+abdominal or cardiac CT, including lower lung zones)
+where interstitial disease was not previously suspected.
+
+The findings include ground-glass or reticular abnormalities, lung distortion, traction bronchiectasis or bronchiolectasis, honeycombing, and nonemphysematous cysts
+
+
+:::
+
+::: {.column width="70%"}
+
+
+Source:
+
+<br>
+
+![](images/ilareference.jpg){fig-align="center" width="85%"}
+
+
+:::
+
+:::
+
+##  What should one do if one sees this as an incidental finding ?
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/managementilas.jpg){fig-align="center" width="95%"}
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+![](images/ilaimage.jpg){fig-align="center" width="95%"}
+
+
+:::
+
+:::
+
+## Progressive Pulmonary Fibrosis
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+
+![](images/ppf.jpg){fig-align="center" width="100%"}
+Surveillance CT in context.
+
+More reasonable approach: Progressive fibrosis is determined on the basis of PFTs (diminshed DLCO and FVC) and CT.
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+
+![](images/ppfct.jpg){fig-align="center" width="55%"}
+
+:::
+
+:::
+
+##  Lymphocytic Interstitial Pneumonitis
+
+
+<br>
+<br>
+
+
+
+::: columns
+::: {.column width="50%"}
+
+![](images/liprip.jpg){fig-align="center" width="100%"}
+
+
+:::
+
+::: {.column width="50%"}
+
+
+![](images/riplip.jpg){fig-align="center" width="75%"}
+
+
+
+
+
+:::
+
+
+:::
+
+::: {.callout-note icon="false"}
+## [The best way to end an ILD talk]{style="font-size: 25px;"}
+
+<p style="text-align: center;">Bury a disease entity!</p>
+
+
+:::
