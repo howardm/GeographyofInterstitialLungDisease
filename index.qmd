@@ -14,7 +14,7 @@ editor: visual
 
 <br> <br>
 
-<h1>Geography of Chronic Interstitial Lung Disease - A 2023 update</h1>
+<h1>Geography of Chronic Interstitial Lung Disease - A 2024 update</h1>
 
 <br>
 
@@ -46,7 +46,7 @@ editor: visual
     
 -   Unusual causes of chronic interstitial fibrosis
     -   Familial Pulmonary Fibrosis
-    -   Short Telomere Syndromes (Telemeropathy)
+    -   Short Telomere Syndromes (Telemeropathies)
     -   Surfactant protein (SP)-C deficiency
     -   Pleuropulmonary Fibroelastosis
     -   Interstitial fibrosis with non-emphysematous lung cysts
@@ -389,7 +389,7 @@ There are three pathologic entities worth knowing about:
 
 * Smoking-Related Interstitial Fibrosis (SRIF)
 * Smoking- Related Fibrosis with Airspace Enlargement (AEF)
-* Combined Pulmonary Fibrosis-Emphysema Syndrome (CPEF)
+* Combined Pulmonary Fibrosis-Emphysema Syndrome (CPFE)
 
 
 :::
@@ -555,7 +555,7 @@ You'll get extra bonus points if you remember the acronym!!
 
 <br>
 
-COPA syndrome
+COPA syndrome (mutations affect a narrow amino acid stretch in the COPA gene-encoding COPα protein)
 
   ![](images/copa.jpg){fig-align="center" width="100%"}
 
