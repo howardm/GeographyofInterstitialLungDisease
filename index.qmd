@@ -14,7 +14,7 @@ editor: visual
 
 <br> <br>
 
-<h1>Geography of Chronic Interstitial Lung Disease - including a 2025 update</h1>
+<h1>Geography of Chronic Interstitial Lung Disease - including a 2026 update</h1>
 
 <br>
 
@@ -43,7 +43,7 @@ editor: visual
 -   Unusual causes of chronic interstitial fibrosis
     -   Familial Pulmonary Fibrosis
     -   Short Telomere Syndromes (Telemeropathies)
-    -   Surfactant protein (SP)-C deficiency
+    -   Surfactant protein-related mutations; COPA syndrome; Hermansky-Pudlak
     -   Pleuropulmonary Fibroelastosis
     -   Interstitial fibrosis with non-emphysematous lung cysts
 -   New concepts in Interstitial Fibrosis
@@ -267,11 +267,10 @@ When the following are present, suggest the clinical diagnosis with confidence:
 ::::::
 
 ## The "Bubbly" Lung
+
 <br>
 
 ![](images/bubblylung.jpg){fig-align="center" width="100%"}
-
-
 
 ## Fibrotic Hypersensitivity Pneumonitis
 
@@ -321,9 +320,10 @@ When the following are present, suggest the clinical diagnosis with confidence:
 :::
 :::::
 
-This is the kind of case that "might" benefit from an ILD - Multidisciplinary Discussion (MDD)
+Is the kind of case that "might" benefit from an ILD - Multidisciplinary Discussion (MDD) ?
 
-
+- maybe Yes
+- maybe No
 
 ## Applying the guidelines for UIP and Fibrotic Hypersensitivity Pneumonitis
 
@@ -340,7 +340,6 @@ It's often tougher than you might think!
 <br>
 
 ![](images/fibroticHP.jpg){fig-align="center" width="100%"}
-
 
 ## Smoking-related Interstitial Fibrosis
 
@@ -400,24 +399,28 @@ Tip: Compare the lung attenuation with air in central bronchi.
 :::
 :::::
 
-## Interstitial fibrosis with Non-emphysematous Lung Cysts - a clinical case
+## Interstitial fibrosis with Emphysema-like Cysts - a clinical case
 
 <br>
 
 ::::: columns
 ::: {.column width="30%"}
-This is very unusual. You'll get bonus points (from someone) if you suggest the diagnosis!
-
+Note the combination of an *unclassifiable pattern* of fibrosis in combination with strange cystic spaces.
 :::
 
 ::: {.column width="70%"}
 <br>
 
-
-
 ![](images/copa.jpg){fig-align="center" width="100%"}
 :::
 :::::
+
+## Another case of fibrosis and cystic spaces
+
+An asymptomatic member of a kindred with a Surfactant Protein B-related mutation
+
+![](images/surfb.jpg){fig-align="center" width="100%"}
+
 
 ## Familial Pulmonary Fibrosis and the Telemeropathies
 
@@ -476,8 +479,6 @@ Causes to know:
 
 Don't confuse this with insignificant Apical Caps.
 
-
-
 ## Interstitial Lung Abnormalities (ILAs)
 
 <br>
@@ -532,47 +533,38 @@ More reasonable approach: Progressive fibrosis is determined on the basis of PFT
 
 ## A 2025 Update for the Idiopathic Interstitial Pneumonias
 
-> Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS
-Statement. Eur Respir J 2025; (https://doi.org/10.1183/13993003.00158-2025).
+> Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025; (https://doi.org/10.1183/13993003.00158-2025).
 
-<br>
-Highlights
-<br>
-<br>
+<br> Highlights <br> <br>
 
 • Bronchiolocentric Interstitial Pneumonia (BIP) "replaces" Hypersensitivity Pneumonitis
 
- This is very weird for *non-fibrotic* Hypersensitivity Pneumonitis; arguably reasonable for *fibrotic* Hypersensitivity Pneumonitis
- 
- <br>
- 
-• Alveolar [Smoker's] Macrophage Pneumonia (AMP) replaces Desqummative Interstitial Pneumonia
- 
- <br>
- 
+This is very weird for *non-fibrotic* Hypersensitivity Pneumonitis; arguably reasonable for *fibrotic* Hypersensitivity Pneumonitis
+
+<br>
+
+• Alveolar \[Smoker's\] Macrophage Pneumonia (AMP) replaces Desqummative Interstitial Pneumonia
+
+<br>
+
 • Idiopathic Diffuse Alveolar Damage (kinda) replaces Acute Interstitial Pneumonia
 
 ## Lymphocytic Interstitial Pneumonitis
 
-> Lymphoid Interstitial Pneumonia (LIP) Revisited
-A Critical Reappraisal of the Histologic Spectrum of “Radiologic” and “Pathologic” LIP in the Context of Diffuse Benign Lymphoid Proliferations of the Lung  (Am J Surg Pathol 2023;47:281–295)
+> Lymphoid Interstitial Pneumonia (LIP) Revisited A Critical Reappraisal of the Histologic Spectrum of “Radiologic” and “Pathologic” LIP in the Context of Diffuse Benign Lymphoid Proliferations of the Lung (Am J Surg Pathol 2023;47:281–295)
 
 ::::: columns
 ::: {.column width="70%"}
-
 ![](images/LIPnot.jpg){fig-align="center" width="80%"}
 :::
 
 ::: {.column width="30%"}
-
 Actual pathologic descriptors of lymphocytic proliferations
 
-* Follicular Bronchiolitis (with or without germinal centers)
-* Diffuse Expansile Lymphocytic Infiltrates (DELI)
-* Micronodular Lymphoid Hyperplasia (MNLH)
-
+-   Follicular Bronchiolitis (with or without germinal centers)
+-   Diffuse Expansile Lymphocytic Infiltrates (DELI)
+-   Micronodular Lymphoid Hyperplasia (MNLH)
 :::
-
 :::::
 
 ## Whither LIP ?
@@ -590,7 +582,6 @@ Actual pathologic descriptors of lymphocytic proliferations
 :::::
 
 ::: {.callout-note icon="false"}
-
 ## [The best way to end an ILD talk]{style="font-size: 25px;"}
 
 <p style="text-align: center;">
